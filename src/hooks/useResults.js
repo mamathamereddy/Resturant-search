@@ -17,7 +17,7 @@ export default () => {
       });
       setResults(response.data.businesses);
     } catch (err) {
-      setErrorMsg("something went wrong");
+      setErrorMsg("error in connecting");
     }
   };
 
