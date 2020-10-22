@@ -31,7 +31,7 @@ const style = StyleSheet.create({
     marginBottom: 10,
   },
   iconstyle: {
-    fontSize: 35,
+    fontSize: 23,
     alignSelf: "center",
     margin: 15,
   },
